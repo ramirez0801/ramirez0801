@@ -1,6 +1,5 @@
 - 👋 Hi, I’m ramirez
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... javascript
+- 👀 I’m interested in web development
 
 
 
