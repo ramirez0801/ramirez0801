@@ -1,5 +1,5 @@
-- 👋 Hi, I’m ramirez
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Emmanuel Ramirez
+- 👀 I’m interested in web development, cibersecurity and software engineering
 
 
 
