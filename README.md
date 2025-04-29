@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel Ramirez
-- 👀 I’m interested in web development, cibersecurity and software engineering
+- 👀 I am interested in software development and cybersecurity.
 
 
 
