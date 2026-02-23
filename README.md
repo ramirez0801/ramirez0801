@@ -1,7 +1,7 @@
 Hola, soy Emmanuel Ramirez
 ### Ingeniero en Computación | Backend Developer | Cybersecurity Enthusiast
 
-Soy un Ingeniero apasionado por resolver problemas complejos mediante código limpio y soluciones escalables. Tengo experiencia real en el sector gubernamental (CFE) y un fuerte enfoque en la seguridad del software.
+Soy un Ingeniero apasionado por resolver problemas complejos mediante código limpio y soluciones escalables.
 
 - 🛠️ **Stack Principal:** .NET (C#), PHP (Laravel), SQL Server, MySQL.
 - 🔐 **Ciberseguridad:** Certificado por Google en análisis de vulnerabilidades y protección de activos.
