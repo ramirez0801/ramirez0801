@@ -3,12 +3,12 @@ Hola, soy Emmanuel Ramirez
 
 Soy un Ingeniero apasionado por resolver problemas complejos mediante código limpio y soluciones escalables.
 
-- 🛠️ **Stack Principal:** .NET (C#), PHP (Laravel), SQL Server, MySQL.
-- 🔐 **Ciberseguridad:** Certificado por Google en análisis de vulnerabilidades y protección de activos.
+-  **Stack Principal:** .NET (C#), PHP (Laravel), SQL Server, MySQL.
+-  **Ciberseguridad:** Certificado por Google en análisis de vulnerabilidades y protección de activos.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 - **Lenguajes:** C#, PHP, C++, JavaScript, Python.
 - **Frameworks:** .NET Core, Laravel, Angular.
 - **Databases:** SQL Server, MySQL, PostgreSQL.
