@@ -1,7 +1,7 @@
 Hola, soy Emmanuel Ramirez
 ### Ingeniero en Computación | Backend Developer | Cybersecurity and Cloud computing Enthusiast
 
-Soy un Ingeniero apasionado por resolver problemas complejos mediante código limpio y soluciones escalables.
+Soy un Ingeniero apasionado por resolver problemas.
 
 -  **Stack Principal:** .NET (C#), Angular, SQL Server, MySQL.  
 ---
