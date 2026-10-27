@@ -1,5 +1,5 @@
 Hola, soy Emmanuel Ramirez
-### Ingeniero en Computación | Backend Developer | Cybersecurity and Cloud computing Enthusiast
+### Ingeniero en Computación | Full-Stack Developer | Cybersecurity and Cloud computing Enthusiast
 
 Soy un Ingeniero apasionado por resolver problemas.
 
